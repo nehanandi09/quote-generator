@@ -1,13 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@1&family=Open+Sans:wght@500&family=Source+Sans+Pro:wght@300&display=swap");
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0e1c26;
+  text-align: center;
+  line-height: 1.5;
+  font-size: 0.875rem;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  color: #41d3bd;
+}
+
+.card {
+  width: 50vw;
+  padding: 40px;
+  border-radius: 15px;
+  margin: 5rem auto;
+  background-color: #1c3139;
+}
+
+p {
+  color: #e0e0ce;
+  font-size: 1.5rem;
+  text-decoration: italic;
+  font-family: "Gentium Book Plus", serif;
+}
+
+.author {
+  color: #41d3bd;
+  text-transform: uppercase;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.button {
+  cursor: pointer;
+  background-color: #41d3bd;
+  padding: 20px;
+  border: none;
+  border-radius: 15px;
+  font-size: 1rem;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  color: #0e1c26;
+  font-weight: 700;
+}
+
+.button:hover {
+  background-color: #1c7367;
+  color: #41d3bd;
 }

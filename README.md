@@ -1,3 +1,11 @@
+# Quote Generator App
+
+A simple quote generator app made using React, and custom CSS.
+
+## Image
+
+!(./screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
