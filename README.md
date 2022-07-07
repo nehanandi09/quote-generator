@@ -4,7 +4,7 @@ A simple quote generator app made using React, and custom CSS.
 
 ## Image
 
-!(./screenshot.png)
+![Image](./screenshot.png)
 
 # Getting Started with Create React App
 
