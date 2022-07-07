@@ -2,6 +2,8 @@
 
 A simple quote generator app made using React, and custom CSS.
 
+[Live Site URL](https://62c71138f9b3cc12206a6ded--peppy-platypus-fa0094.netlify.app/)
+
 ## Image
 
 ![Image](./screenshot.png)
